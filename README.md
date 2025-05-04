@@ -228,20 +228,7 @@ max_attempts = 3
 This tool is only for learning and research purposes, and any consequences arising from the use of this tool are borne
 by the user.
 
-## 💰 Buy Me a Coffee | 請我喝杯咖啡
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="./images/provi-code.jpg" alt="buy_me_a_coffee" width="280"/><br>
-      </td>
-      <td>
-        <img src="./images/paypal.png" alt="buy_me_a_coffee" width="280"/><br>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ## ⭐ Star History | 星星數
 
